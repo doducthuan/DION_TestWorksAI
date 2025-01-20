@@ -18,6 +18,7 @@ pip install ultralytics==8.0.0
 - Do Tracking with mentioned command below
 ```
 #add data
+Note : Delete file please_delete_this_file_before_adding_the_video.txt ( Require )
 B1 : Add all the videos you want to train into folder input_videos
 
 #run
