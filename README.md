@@ -2,12 +2,12 @@
 - Note : use python 3.11.1
 - Clone the repository
 ```
-https://github.com/RizwanMunawar/yolov8-object-tracking.git
+https://github.com/doducthuan/DION_TestWorksAI
 ```
 
 - Goto cloned folder
 ```
-cd yolov8-object-tracking
+cd DION_TestWorksAI
 ```
 
 - Install the ultralytics package
