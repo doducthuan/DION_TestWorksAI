@@ -2,7 +2,7 @@
 - Note : use python 3.11.1
 - Clone the repository
 ```
-https://github.com/doducthuan/DION_TestWorksAI
+[https://github.com/doducthuan/DION_TestWorksAI](https://github.com/doducthuan/DION_TestWorksAI.git)
 ```
 
 - Goto cloned folder
